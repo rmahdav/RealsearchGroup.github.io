@@ -1,7 +1,3 @@
-# Added by Nirav
-baseurl: "realsearch-www"
-url: "https://niravajmeri.github.io/"
-
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 # permalink: /:categories/:year/:month/:day/:title
@@ -12,26 +8,26 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: niravajmeri/realsearch-www
+repository: realsearchgroup/
 
 medium_publication: nrg-excitations
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title: Niemeyer Research Group
-tagline: Computational combustion and fluid dynamics
+title: Realsearch Group
+tagline: 
 institution:
-  url: https://oregonstate.edu/
-  name: Oregon State University
+  url: https://ncsu.edu/
+  name: North Carolina State University
 department:
-  url: http://mime.oregonstate.edu/
-  name: School of Mechanical, Industrial, and Manufacturing Engineering
+  url: http://csc.ncsu.edu/
+  name: Department of Computer Science
 author:
-  name: Kyle E. Niemeyer
-  email: kyle.niemeyer@oregonstate.edu
-  github: kyleniemeyer
-  twitter: kyleniemeyer
+  name: Laurie Williams
+  email: lawilli3@ncsu.edu@ncsu.edu
+  github: lauriewilliams
+  twitter: lauriewilliams
 
 collections:
   my_team:
@@ -63,7 +59,7 @@ defaults:
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url: niravajmeri/realsearch-www
+production_url: realsearchgroup
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -92,8 +88,8 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-#  BASE_PATH : false
-  BASE_PATH : https://niravajmeri.github.io/realsearch-www
+  BASE_PATH : false
+  #BASE_PATH : https://niravajmeri.github.io/realsearch-www
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
