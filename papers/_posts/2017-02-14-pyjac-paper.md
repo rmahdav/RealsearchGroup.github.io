@@ -12,7 +12,7 @@ authors: "Niemeyer KE, Curtis NJ, Sung CJ"
 image: /assets/images/papers/pyjac-paper-abstract.svg
 arxiv: "1605.03262 [physics.comp-ph]"
 eprint: https://arxiv.org/abs/1605.03262
-github: https://github.com/Niemeyer-Research-Group/pyJac-paper
+github: https://github.com/RealsearchGroup/pyJac-paper
 f1000:
 doi: 10.1016/j.cpc.2017.02.004
 dryad_doi:

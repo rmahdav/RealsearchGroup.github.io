@@ -4,7 +4,7 @@ title: "Matt Zaiger"
 position: MS student
 nickname: Matt
 handle: zaiger
-email: zaigerm@oregonstate.edu
+email: zaigerm@ncsu.edu
 twitter:
 github: zaigerm
 scholar:
@@ -13,8 +13,8 @@ image: /assets/images/team/zaiger_matt.jpg
 cv:
 alum: false
 ---
-Matt is an MS student studying coupled detonation and magnetohydrodynamics (MHD). He is co-advised by Prof. David Blunck in the [CIRE Lab](http://research.engr.oregonstate.edu/blunckgroup/home).
+Matt is an MS student studying coupled detonation and magnetohydrodynamics (MHD). He is co-advised by Prof. David Blunck in the [CIRE Lab](http://research.engr.ncsu.edu/blunckgroup/home).
 
 
-[Oregon State University]: http://oregonstate.edu/
-[School of Mechanical, Industrial, and Manufacturing Engineering]: http://mime.oregonstate.edu
+[North Carolina State University]: http://ncsu.edu/
+[Department of Computer Science]: http://mime.ncsu.edu

@@ -4,7 +4,7 @@ https://keybase.io/kyleniemeyer
 
 I hereby claim:
 
-  * I am an admin of https://niemeyer-research-group.github.io
+  * I am an admin of https://realsearchgroup.github.io
   * I am kyleniemeyer (https://keybase.io/kyleniemeyer) on keybase.
   * I have a public key ASCEECZJDyz2kv4AxvyVMZQJTTbdXNMtSAIbZ9MeNdDXggo
 
@@ -26,7 +26,7 @@ To do so, I am signing this object:
       "seqno": 1291889
     },
     "service": {
-      "hostname": "niemeyer-research-group.github.io",
+      "hostname": "realsearchgroup.github.io",
       "protocol": "https:"
     },
     "type": "web_service_binding",

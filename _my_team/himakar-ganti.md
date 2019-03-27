@@ -3,7 +3,7 @@ title: Himakar Ganti
 position: MS graduate
 nickname: Himakar
 handle: ganti
-email: gantih@oregonstate.edu
+email: gantih@ncsu.edu
 twitter:
 github: himakarganti
 scholar:
@@ -16,5 +16,5 @@ homepage: https://www.linkedin.com/in/himakar-ganti-b09b1113b/
 Himakar graduated with his MS in Mechanical Engineering in June 2017.
 
 
-[Oregon State University]: http://oregonstate.edu/
-[School of Mechanical, Industrial, and Manufacturing Engineering]: http://mime.oregonstate.edu
+[North Carolina State University]: http://ncsu.edu/
+[Department of Computer Science]: http://mime.ncsu.edu

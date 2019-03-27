@@ -3,7 +3,7 @@ title: Luz Pacheco
 position: MS graduate
 nickname: Luz
 handle: pacheco
-email: pachecol@oregonstate.edu
+email: pachecol@ncsu.edu
 twitter:
 github: pachecoluz
 scholar:
@@ -14,5 +14,5 @@ alum: true
 Luz graduated with her MS in Mechanical Engineering, studying turbulence-chemistry interactions in the ocean.
 
 
-[Oregon State University]: http://oregonstate.edu/
-[School of Mechanical, Industrial, and Manufacturing Engineering]: http://mime.oregonstate.edu
+[North Carolina State University]: http://ncsu.edu/
+[Department of Computer Science]: http://mime.ncsu.edu

@@ -1,11 +1,11 @@
-# The Niemeyer Research Group main website
+# The Realsearch Group main website
 
 ##
 
 
 ### TODOS
 
-See Issues on [the site](https://github.com/Niemeyer-Research-Group/niemeyer-research-group.github.io).
+See Issues on [the site](https://github.com/RealsearchGroup/realsearchgroup.github.io).
 
 ## How to add content
 

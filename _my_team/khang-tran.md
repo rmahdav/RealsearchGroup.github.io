@@ -3,7 +3,7 @@ title: Khang Tran
 position: MS student
 nickname: Khang
 handle: tran
-email: trankhan@oregonstate.edu
+email: trankhan@ncsu.edu
 twitter:
 github:
 scholar:
@@ -18,6 +18,6 @@ Khang graduated from the University of Portland, where he took part in a researc
 Khang is co-advised by [Prof. Christopher Hagen](http://osucascades.edu/energy-systems-lab/dr-christopher-hagen) in the [Energy Systems Lab].
 
 
-[Oregon State University]: http://oregonstate.edu/
-[School of Mechanical, Industrial, and Manufacturing Engineering]: http://mime.oregonstate.edu
+[North Carolina State University]: http://ncsu.edu/
+[Department of Computer Science]: http://mime.ncsu.edu
 [Energy Systems Lab]: http://osucascades.edu/energy-systems-lab/

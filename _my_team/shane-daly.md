@@ -3,7 +3,7 @@ title: Shane Daly
 position: PhD graduate
 nickname: Shane
 handle: daly
-email: dalys@oregonstate.edu
+email: dalys@ncsu.edu
 twitter:
 github:
 scholar:
@@ -15,9 +15,9 @@ Shane graduated with his MS in Mechanical Engineering in September 2015, and was
 
 Shane graduated with his PhD in Mechanical Engineering, working with the [Energy Systems Lab].
 
-<i class="fas fa-book" aria-hidden="true"></i> MS thesis: [Chemometrics-based Approach for Predicting Low Temperature Combustion Engine Fuel Performance](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/5h73q168t)
+<i class="fas fa-book" aria-hidden="true"></i> MS thesis: [Chemometrics-based Approach for Predicting Low Temperature Combustion Engine Fuel Performance](https://ir.library.ncsu.edu/concern/graduate_thesis_or_dissertations/5h73q168t)
 
 
-[Oregon State University]: http://oregonstate.edu/
-[School of Mechanical, Industrial, and Manufacturing Engineering]: http://mime.oregonstate.edu
+[North Carolina State University]: http://ncsu.edu/
+[Department of Computer Science]: http://mime.ncsu.edu
 [Energy Systems Lab]: http://osucascades.edu/energy-systems-lab/

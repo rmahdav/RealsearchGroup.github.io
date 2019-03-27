@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - .well-known directory with Keybase identify verification
 
 ### Changed
-- Changed to Niemeyer Research Group
+- Changed to Realsearch Group
 
 ## [0.3.0] - 2013-02-24
 ### Added

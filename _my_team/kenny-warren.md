@@ -3,7 +3,7 @@ title: Kenny Warren
 position: Undergraduate student
 nickname: Kenny
 handle: warren
-email: warrenk@oregonstate.edu
+email: warrenk@ncsu.edu
 twitter:
 github:
 scholar:
@@ -13,4 +13,4 @@ alum: true
 ---
 Kenny was an undergraduate student in the BioResource Research/Bioenergy program studying smoldering combustion.
 
-[Oregon State University]: http://oregonstate.edu/
+[North Carolina State University]: http://ncsu.edu/

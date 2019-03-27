@@ -12,7 +12,7 @@ authors: "Magee DJ, Niemeyer KE"
 image: /assets/images/papers/GPU-swept-rule-1D.png
 arxiv: "1705.03162 [physics.comp-ph]"
 eprint: https://arxiv.org/abs/1705.03162
-github: https://github.com/Niemeyer-Research-Group/1DSweptCUDA
+github: https://github.com/RealsearchGroup/1DSweptCUDA
 doi: 10.1016/j.jcp.2017.12.028
 dryad_doi:
 altmetric_id:

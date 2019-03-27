@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Niemeyer Research Group</title>
- <link href="https://niemeyer-research-group.github.io//" rel="self"/>
- <link href="https://niemeyer-research-group.github.io/"/>
+ <title>Realsearch Group</title>
+ <link href="https://realsearchgroup.github.io//" rel="self"/>
+ <link href="https://realsearchgroup.github.io/"/>
  <updated>2018-08-10T21:59:06-07:00</updated>
- <id>https://niemeyer-research-group.github.io/</id>
+ <id>https://realsearchgroup.github.io/</id>
  <author>
    <name>Kyle E. Niemeyer</name>
-   <email>kyle.niemeyer@oregonstate.edu</email>
+   <email>kyle.niemeyer@ncsu.edu</email>
  </author>
 
  
  <entry>
    <title>AJ featured in Gazette-Times</title>
-   <link href="https://niemeyer-research-group.github.io//news/aj-featured-newspaper"/>
+   <link href="https://realsearchgroup.github.io//news/aj-featured-newspaper"/>
    <updated>2018-07-09T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//news/aj-featured-newspaper</id>
+   <id>https://realsearchgroup.github.io//news/aj-featured-newspaper</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/team/aj-fillo&quot;&gt;AJ&lt;/a&gt; was &lt;a href=&quot;https://www.gazettetimes.com/news/local/osu-grad-student-debuts-new-science-video-on--d/article_322869b4-1acf-554f-93c2-2016bbfc9248.html&quot;&gt;featured in the &lt;em&gt;Corvallis Gazette-Times&lt;/em&gt;&lt;/a&gt; for his recent &lt;a href=&quot;http://www.liblabscience.com&quot;&gt;Lib Lab&lt;/a&gt; episode on &lt;a href=&quot;https://youtu.be/_fwziIJPwMs&quot;&gt;3D printing of metal&lt;/a&gt;.&lt;/p&gt;
 
 </content>
@@ -24,9 +24,9 @@
  
  <entry>
    <title>Effects of fuel content and density on the smoldering characteristics of cellulose and hemicellulose</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/smoldering-exp-comp-poci"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/smoldering-exp-comp-poci"/>
    <updated>2018-07-08T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/smoldering-exp-comp-poci</id>
+   <id>https://realsearchgroup.github.io//papers/paper/smoldering-exp-comp-poci</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -36,9 +36,9 @@
  
  <entry>
    <title>Computational study of the effects of density, fuel content, and moisture content on smoldering propagation of cellulose and hemicellulose mixtures</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/smoldering-mixtures-poci"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/smoldering-mixtures-poci"/>
    <updated>2018-06-24T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/smoldering-mixtures-poci</id>
+   <id>https://realsearchgroup.github.io//papers/paper/smoldering-mixtures-poci</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -48,9 +48,9 @@
  
  <entry>
    <title>NRG group MS defenses</title>
-   <link href="https://niemeyer-research-group.github.io//news/dan-andrew-luz-defended"/>
+   <link href="https://realsearchgroup.github.io//news/dan-andrew-luz-defended"/>
    <updated>2018-06-20T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//news/dan-andrew-luz-defended</id>
+   <id>https://realsearchgroup.github.io//news/dan-andrew-luz-defended</id>
    <content type="html">&lt;p&gt;NRG members &lt;a href=&quot;/team/dan-magee&quot;&gt;Dan&lt;/a&gt;, &lt;a href=&quot;/team/andrew-alferman&quot;&gt;Andrew&lt;/a&gt;, and &lt;a href=&quot;/team/luz-pacheco&quot;&gt;Luz&lt;/a&gt; successfully defended their MS degrees—congratulations!&lt;/p&gt;
 
 </content>
@@ -58,9 +58,9 @@
  
  <entry>
    <title>FACE gasoline surrogates formulated by an enhanced multivariate optimization framework</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/FACE-surrogates"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/FACE-surrogates"/>
    <updated>2018-06-19T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/FACE-surrogates</id>
+   <id>https://realsearchgroup.github.io//papers/paper/FACE-surrogates</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -70,9 +70,9 @@
  
  <entry>
    <title>The case for openness in engineering research</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/openness-engineering"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/openness-engineering"/>
    <updated>2018-04-26T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/openness-engineering</id>
+   <id>https://realsearchgroup.github.io//papers/paper/openness-engineering</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -82,9 +82,9 @@
  
  <entry>
    <title>Analysis of an approach for detecting arc positions during vacuum arc remelting based on magnetic flux density measurements</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/jmse-aps-analysis"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/jmse-aps-analysis"/>
    <updated>2018-02-24T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/jmse-aps-analysis</id>
+   <id>https://realsearchgroup.github.io//papers/paper/jmse-aps-analysis</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -94,9 +94,9 @@
  
  <entry>
    <title>Accelerating finite-rate chemical kinetics with coprocessors: Comparing vectorization methods on GPUs, MICs, and CPUs</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/cpc-chemistry-vectorization"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/cpc-chemistry-vectorization"/>
    <updated>2018-02-23T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/cpc-chemistry-vectorization</id>
+   <id>https://realsearchgroup.github.io//papers/paper/cpc-chemistry-vectorization</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -106,9 +106,9 @@
  
  <entry>
    <title>Journal of Open Source Software (JOSS): design and first-year review</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/joss-peerjcs"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/joss-peerjcs"/>
    <updated>2018-02-12T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/joss-peerjcs</id>
+   <id>https://realsearchgroup.github.io//papers/paper/joss-peerjcs</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -118,9 +118,9 @@
  
  <entry>
    <title>Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/wssspe4-jors"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/wssspe4-jors"/>
    <updated>2018-02-10T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/wssspe4-jors</id>
+   <id>https://realsearchgroup.github.io//papers/paper/wssspe4-jors</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -130,9 +130,9 @@
  
  <entry>
    <title>ChemKED: A human- and machine-readable data standard for chemical kinetics experiments</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/chemked-ijck"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/chemked-ijck"/>
    <updated>2018-01-25T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/chemked-ijck</id>
+   <id>https://realsearchgroup.github.io//papers/paper/chemked-ijck</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -142,9 +142,9 @@
  
  <entry>
    <title>Accelerating solutions of one-dimensional unsteady PDEs with GPU-based swept time–space decomposition</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/GPU-swept-rule-1D"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/GPU-swept-rule-1D"/>
    <updated>2018-01-09T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/GPU-swept-rule-1D</id>
+   <id>https://realsearchgroup.github.io//papers/paper/GPU-swept-rule-1D</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -154,9 +154,9 @@
  
  <entry>
    <title>Assessing impacts of discrepancies in model parameters on autoignition model performance: A case study using butanol</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/model-parameter-discrepancy"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/model-parameter-discrepancy"/>
    <updated>2018-01-01T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/model-parameter-discrepancy</id>
+   <id>https://realsearchgroup.github.io//papers/paper/model-parameter-discrepancy</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -166,9 +166,9 @@
  
  <entry>
    <title>AJ in Gazette-Times</title>
-   <link href="https://niemeyer-research-group.github.io//news/liblab-local-news"/>
+   <link href="https://realsearchgroup.github.io//news/liblab-local-news"/>
    <updated>2017-12-20T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//news/liblab-local-news</id>
+   <id>https://realsearchgroup.github.io//news/liblab-local-news</id>
    <content type="html">&lt;p&gt;NRG PhD candidate &lt;a href=&quot;/team/aj-fillo&quot;&gt;AJ&lt;/a&gt; was featured in an &lt;a href=&quot;http://www.gazettetimes.com/news/local/library-science-videos-do-a-deep-dive-on-pressure/article_a9476d78-5146-593e-9f65-bb1a842252e8.html&quot;&gt;article in the &lt;em&gt;Corvallis Gazette-Times&lt;/em&gt;&lt;/a&gt; about filming an episode for his &lt;a href=&quot;https://www.youtube.com/channel/UCQvOIwhriBXNMaxXgLl4PPA/featured&quot;&gt;LIB LAB&lt;/a&gt; video series at the &lt;a href=&quot;http://aquarium.org&quot;&gt;Oregon Coast Aquarium&lt;/a&gt;.
 This episode will be part of a collaboration with &lt;a href=&quot;http://nicolesharp.com&quot;&gt;Dr. Nicole Sharp&lt;/a&gt;’s &lt;a href=&quot;http://fyfluiddynamics.com&quot;&gt;FY Fluid Dynamics&lt;/a&gt; blog.&lt;/p&gt;
 
@@ -177,9 +177,9 @@ This episode will be part of a collaboration with &lt;a href=&quot;http://nicole
  
  <entry>
    <title>NRG in the news</title>
-   <link href="https://niemeyer-research-group.github.io//news/NRG-featured-news"/>
+   <link href="https://realsearchgroup.github.io//news/NRG-featured-news"/>
    <updated>2017-10-21T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//news/NRG-featured-news</id>
+   <id>https://realsearchgroup.github.io//news/NRG-featured-news</id>
    <content type="html">&lt;p&gt;NRG projects and team members have been in the news lately!&lt;/p&gt;
 
 &lt;ul&gt;
@@ -187,7 +187,7 @@ This episode will be part of a collaboration with &lt;a href=&quot;http://nicole
     &lt;p&gt;In October 2017, &lt;a href=&quot;/team/aj-fillo&quot;&gt;AJ&lt;/a&gt; won the 2017 OSU Distinguished Master’s Thesis Award. His &lt;a href=&quot;http://hdl.handle.net/1957/60072&quot;&gt;thesis&lt;/a&gt; reported and analyzed the turbulent flame speed of jet and jet-like fuels.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;In April 2017, &lt;a href=&quot;/team/kyle-niemeyer&quot;&gt;Kyle&lt;/a&gt; was featured in &lt;a href=&quot;http://ecampus.oregonstate.edu/research/podcast/e56/&quot;&gt;an episode&lt;/a&gt; of the &lt;a href=&quot;http://ecampus.oregonstate.edu/research/podcast/&quot;&gt;Research in Action podcast&lt;/a&gt;, where he discussed open science.&lt;/p&gt;
+    &lt;p&gt;In April 2017, &lt;a href=&quot;/team/kyle-niemeyer&quot;&gt;Kyle&lt;/a&gt; was featured in &lt;a href=&quot;http://ecampus.ncsu.edu/research/podcast/e56/&quot;&gt;an episode&lt;/a&gt; of the &lt;a href=&quot;http://ecampus.ncsu.edu/research/podcast/&quot;&gt;Research in Action podcast&lt;/a&gt;, where he discussed open science.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;In March 2017, &lt;a href=&quot;https://www.asme.org/engineering-topics/articles/manufacturing-design/visualizing-greener-specialty-metals&quot;&gt;ASME featured a story&lt;/a&gt; on arc position sensing technology for vacuum arc remelting furnaces, mentioning &lt;a href=&quot;/team/miguel-soler&quot;&gt;Miguel&lt;/a&gt; and &lt;a href=&quot;/team/kyle-niemeyer&quot;&gt;Kyle&lt;/a&gt;’s project funded by OregonBEST.&lt;/p&gt;
@@ -205,9 +205,9 @@ This episode will be part of a collaboration with &lt;a href=&quot;http://nicole
  
  <entry>
    <title>A multi-disciplinary perspective on emergent and future innovations in peer review</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/peer-review"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/peer-review"/>
    <updated>2017-07-20T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/peer-review</id>
+   <id>https://realsearchgroup.github.io//papers/paper/peer-review</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -217,9 +217,9 @@ This episode will be part of a collaboration with &lt;a href=&quot;http://nicole
  
  <entry>
    <title>An investigation of GPU-based stiff chemical kinetics integration methods</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/stiff-GPU-integrators"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/stiff-GPU-integrators"/>
    <updated>2017-05-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/stiff-GPU-integrators</id>
+   <id>https://realsearchgroup.github.io//papers/paper/stiff-GPU-integrators</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -229,9 +229,9 @@ This episode will be part of a collaboration with &lt;a href=&quot;http://nicole
  
  <entry>
    <title>Effects of oil and water contamination on natural gas engine combustion processes</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/oil-water-natural-gas-engine"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/oil-water-natural-gas-engine"/>
    <updated>2017-05-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/oil-water-natural-gas-engine</id>
+   <id>https://realsearchgroup.github.io//papers/paper/oil-water-natural-gas-engine</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -241,21 +241,21 @@ This episode will be part of a collaboration with &lt;a href=&quot;http://nicole
  
  <entry>
    <title>AJ in the news</title>
-   <link href="https://niemeyer-research-group.github.io//news/pilot-liblab-video"/>
+   <link href="https://realsearchgroup.github.io//news/pilot-liblab-video"/>
    <updated>2017-03-01T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//news/pilot-liblab-video</id>
+   <id>https://realsearchgroup.github.io//news/pilot-liblab-video</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/team/aj-fillo&quot;&gt;AJ Fillo&lt;/a&gt;, PhD candidate in the NRG, developed and starred in the &lt;a href=&quot;https://www.youtube.com/watch?v=H96Xr0Efelk&quot;&gt;pilot LIB LAB episode&lt;/a&gt; episode, an educational STEAM outreach video on propulsion.&lt;/p&gt;
 
-&lt;p&gt;AJ was also recently featured in a &lt;a href=&quot;http://mime.oregonstate.edu/fanning-flames&quot;&gt;story on the MIME website&lt;/a&gt; about both his research and the LIB LAB video series.&lt;/p&gt;
+&lt;p&gt;AJ was also recently featured in a &lt;a href=&quot;http://csc.ncsu.edu/fanning-flames&quot;&gt;story on the MIME website&lt;/a&gt; about both his research and the LIB LAB video series.&lt;/p&gt;
 
 </content>
  </entry>
  
  <entry>
    <title>pyJac: Analytical Jacobian generator for chemical kinetics</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/pyjac-paper"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/pyjac-paper"/>
    <updated>2017-02-14T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/pyjac-paper</id>
+   <id>https://realsearchgroup.github.io//papers/paper/pyjac-paper</id>
    <content type="html">
 &lt;h1 id=&quot;brief-description&quot;&gt;Brief description&lt;/h1&gt;
 
@@ -273,9 +273,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Reduced chemistry for butanol isomers at engine-relevant conditions</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/butanol-skeletal-models"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/butanol-skeletal-models"/>
    <updated>2016-12-12T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/butanol-skeletal-models</id>
+   <id>https://realsearchgroup.github.io//papers/paper/butanol-skeletal-models</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -285,19 +285,19 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Kyle featured in faculty spotlight article</title>
-   <link href="https://niemeyer-research-group.github.io//news/kyle-faculty-spotlight"/>
+   <link href="https://realsearchgroup.github.io//news/kyle-faculty-spotlight"/>
    <updated>2016-11-23T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//news/kyle-faculty-spotlight</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;/team/kyle-niemeyer&quot;&gt;Kyle&lt;/a&gt; was featured in a &lt;a href=&quot;http://blogs.oregonstate.edu/mimenews/2016/11/23/faculty-spotlight-kyle-niemeyer/&quot;&gt;faculty spotlight article&lt;/a&gt; describing his research and background.&lt;/p&gt;
+   <id>https://realsearchgroup.github.io//news/kyle-faculty-spotlight</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/team/kyle-niemeyer&quot;&gt;Kyle&lt;/a&gt; was featured in a &lt;a href=&quot;http://blogs.ncsu.edu/mimenews/2016/11/23/faculty-spotlight-kyle-niemeyer/&quot;&gt;faculty spotlight article&lt;/a&gt; describing his research and background.&lt;/p&gt;
 
 </content>
  </entry>
  
  <entry>
    <title>Predicting fuel research octane number using Fourier-transform infrared absorption spectra of neat hydrocarbons</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/RON-FTIR"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/RON-FTIR"/>
    <updated>2016-11-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/RON-FTIR</id>
+   <id>https://realsearchgroup.github.io//papers/paper/RON-FTIR</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -307,9 +307,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Report on the Third Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE3)</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/wssspe3-report"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/wssspe3-report"/>
    <updated>2016-10-21T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/wssspe3-report</id>
+   <id>https://realsearchgroup.github.io//papers/paper/wssspe3-report</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -319,9 +319,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>The challenge and promise of software citation for credit, identification, discovery, and reuse</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/software-citation-challenge"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/software-citation-challenge"/>
    <updated>2016-10-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/software-citation-challenge</id>
+   <id>https://realsearchgroup.github.io//papers/paper/software-citation-challenge</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -331,9 +331,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Software citation principles</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/software-citation-principles"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/software-citation-principles"/>
    <updated>2016-09-19T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/software-citation-principles</id>
+   <id>https://realsearchgroup.github.io//papers/paper/software-citation-principles</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -343,9 +343,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Counterflow ignition of <i>n</i>-butanol at atmospheric and elevated pressures</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/nbutanol-counterflow"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/nbutanol-counterflow"/>
    <updated>2015-10-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/nbutanol-counterflow</id>
+   <id>https://realsearchgroup.github.io//papers/paper/nbutanol-counterflow</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -355,9 +355,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Development of efficient and accurate skeletal mechanisms for hydrocarbon fuels and kerosene surrogate</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/kerosene-model-reduction"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/kerosene-model-reduction"/>
    <updated>2015-10-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/kerosene-model-reduction</id>
+   <id>https://realsearchgroup.github.io//papers/paper/kerosene-model-reduction</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -367,9 +367,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>A novel fuel performance index for LTC engines based on operating envelopes in light-duty driving cycle simulations</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/LTC-index"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/LTC-index"/>
    <updated>2015-10-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/LTC-index</id>
+   <id>https://realsearchgroup.github.io//papers/paper/LTC-index</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -379,9 +379,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Investigation of the LTC fuel performance index for oxygenated reference fuel blends</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/LTC-index-oxygenated"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/LTC-index-oxygenated"/>
    <updated>2015-09-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/LTC-index-oxygenated</id>
+   <id>https://realsearchgroup.github.io//papers/paper/LTC-index-oxygenated</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -391,9 +391,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>An automated target species selection method for dynamic adaptive chemistry simulations</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/target-species-selection"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/target-species-selection"/>
    <updated>2015-04-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/target-species-selection</id>
+   <id>https://realsearchgroup.github.io//papers/paper/target-species-selection</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -409,9 +409,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Reduced chemistry for a gasoline surrogate valid at engine-relevant conditions</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/reduced-gasoline-surrogate"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/reduced-gasoline-surrogate"/>
    <updated>2015-01-14T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/reduced-gasoline-surrogate</id>
+   <id>https://realsearchgroup.github.io//papers/paper/reduced-gasoline-surrogate</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -421,9 +421,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Mechanism reduction for multicomponent surrogates: a case study using toluene reference fuels</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/multicomponent-reduction"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/multicomponent-reduction"/>
    <updated>2014-11-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/multicomponent-reduction</id>
+   <id>https://realsearchgroup.github.io//papers/paper/multicomponent-reduction</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -433,9 +433,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Recent progress and challenges in exploiting graphics processors in computational fluid dynamics</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/review-GPU-CFD"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/review-GPU-CFD"/>
    <updated>2014-02-01T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/review-GPU-CFD</id>
+   <id>https://realsearchgroup.github.io//papers/paper/review-GPU-CFD</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -445,9 +445,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Accelerating moderately stiff chemical kinetics in reactive-flow simulations using GPUs</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/moderately-stiff-GPU"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/moderately-stiff-GPU"/>
    <updated>2014-01-01T00:00:00-08:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/moderately-stiff-GPU</id>
+   <id>https://realsearchgroup.github.io//papers/paper/moderately-stiff-GPU</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -457,9 +457,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>On the importance of graph search algorithms for DRGEP-based mechanism reduction methods</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/graph-search"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/graph-search"/>
    <updated>2011-08-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/graph-search</id>
+   <id>https://realsearchgroup.github.io//papers/paper/graph-search</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -469,9 +469,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Skeletal mechanism generation for surrogate fuels using directed relation graph with error propagation and sensitivity analysis</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/skeletal-reduction"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/skeletal-reduction"/>
    <updated>2010-09-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/skeletal-reduction</id>
+   <id>https://realsearchgroup.github.io//papers/paper/skeletal-reduction</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 
@@ -481,9 +481,9 @@ and a performance comparison with alternative methods.&lt;/p&gt;
  
  <entry>
    <title>Three-dimensional surface texture visualization of bone tissue through epifluorescence-based serial block face imaging</title>
-   <link href="https://niemeyer-research-group.github.io//papers/paper/bone-imaging"/>
+   <link href="https://realsearchgroup.github.io//papers/paper/bone-imaging"/>
    <updated>2009-10-01T00:00:00-07:00</updated>
-   <id>https://niemeyer-research-group.github.io//papers/paper/bone-imaging</id>
+   <id>https://realsearchgroup.github.io//papers/paper/bone-imaging</id>
    <content type="html">
 &lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
 

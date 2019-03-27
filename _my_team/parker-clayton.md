@@ -3,7 +3,7 @@ title: Parker Clayton
 position: Undergraduate student
 nickname: Parker
 handle: clayton
-email: claytonp@oregonstate.edu
+email: claytonp@ncsu.edu
 twitter:
 github: parkerclayton
 scholar:
@@ -16,5 +16,5 @@ Parker is an undergraduate Mechanical Engineering student working on methods for
 
 Current position: Intern at [Tesla, Inc.](https://www.tesla.com/).
 
-[Oregon State University]: http://oregonstate.edu/
-[School of Mechanical, Industrial, and Manufacturing Engineering]: http://mime.oregonstate.edu
+[North Carolina State University]: http://ncsu.edu/
+[Department of Computer Science]: http://mime.ncsu.edu

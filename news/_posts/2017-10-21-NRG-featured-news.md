@@ -11,7 +11,7 @@ NRG projects and team members have been in the news lately!
 
  - In October 2017, [AJ] won the 2017 OSU Distinguished Master's Thesis Award. His [thesis](http://hdl.handle.net/1957/60072) reported and analyzed the turbulent flame speed of jet and jet-like fuels.
 
- - In April 2017, [Kyle] was featured in [an episode](http://ecampus.oregonstate.edu/research/podcast/e56/) of the [Research in Action podcast](http://ecampus.oregonstate.edu/research/podcast/), where he discussed open science.
+ - In April 2017, [Kyle] was featured in [an episode](http://ecampus.ncsu.edu/research/podcast/e56/) of the [Research in Action podcast](http://ecampus.ncsu.edu/research/podcast/), where he discussed open science.
 
  - In March 2017, [ASME featured a story](https://www.asme.org/engineering-topics/articles/manufacturing-design/visualizing-greener-specialty-metals) on arc position sensing technology for vacuum arc remelting furnaces, mentioning [Miguel] and [Kyle]'s project funded by OregonBEST.
 
