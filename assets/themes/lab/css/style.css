@@ -150,8 +150,9 @@ strong {
   text-shadow: 1.5px 1.5px #ffffff; }
 
 .navbar-brand {
-  font-size: 24px;
-  font-weight: 300; }
+  font-size: 28px;
+  font-weight: 300; 
+  color: #cc0000; }
 
 .navbar-nav {
   font-size: 24px;
