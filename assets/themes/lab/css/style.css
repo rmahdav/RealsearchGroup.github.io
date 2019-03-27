@@ -149,6 +149,9 @@ strong {
   text-align: center;
   text-shadow: 1.5px 1.5px #ffffff; }
 
+.navbar-default {
+  color: #cc0000; }
+
 .navbar-brand {
   font-size: 28px;
   font-weight: 300; 
