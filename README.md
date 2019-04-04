@@ -5,7 +5,7 @@
 
 ### TODOS
 
-See Issues on [the site](https://github.com/RealsearchGroup/realsearchgroup.github.io).
+See Issues on [the site](https://github.com/RealsearchGroup/RealsearchGroup.github.io/issues).
 
 ## How to add content
 
