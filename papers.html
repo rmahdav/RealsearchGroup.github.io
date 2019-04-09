@@ -60,7 +60,18 @@
     <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
     -->
-
+	
+	<script>
+		function reset() {
+			$("select").each(function () {
+			  localStorage.setItem($(this).attr("id"),"");
+			  $(this).val("");
+			}); 
+			$("#searchbar").val("");
+			$("#searchbar").trigger('change');
+		}
+    </script>
+	
     <!-- Including BibTeX-js  to generate publications from bib (Update realsearch.bib) -->
     <!-- https://github.com/pcooksey/bibtex-js/wiki -->
     <script type="text/javascript" src="https://cdn.rawgit.com/pcooksey/bibtex-js/ef59e62c/src/bibtex_js.js"></script>
@@ -115,7 +126,27 @@
 	-->
 	<div class="bigtitle">Papers</div>
 	<div class="bigspacer"></div>
+	
+	<div class="searchbar">
+		<div style="float:left;">
+			<button type="button" class="btn btn-default" onclick="reset()">Reset</button>
+		</div>
+		<div style="float:left;">
+			<select class="bibtex_search bibtex_author" extra="first" search="author">
+				<option value="">Search First Author</option>
+			</select>
+		</div>
+		<div style="float:left;">
+			<select class="bibtex_search bibtex_author" search="author">
+				<option value="">Search Author</option>
+			</select>
+		</div>
+		<div style="float:left;">
+			<input type="text" class="bibtex_search" id="searchbar" placeholder="Search publications">
+		</div>
+	</div>
 
+	
 	<bibtex src="/assets/realsearch.bib"></bibtex>
 
 	<div id="bibtex_display"></div>
