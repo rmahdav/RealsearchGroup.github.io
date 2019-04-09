@@ -127,20 +127,20 @@
 	<div class="bigtitle">Publications</div>
 	<div class="bigspacer"></div>
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-2">
 			<select class="bibtex_search bibtex_author" extra="first" search="author">
 				<option value="">Search First Author</option>
 			</select>
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-2">
 			<select class="bibtex_search bibtex_author" search="author">
 				<option value="">Search Author</option>
 			</select>
 		</div>
-		<div class="col-md-3">
-			<input type="text" class="bibtex_search" id="searchbar" placeholder="Search publications">
+		<div class="col-md-7">
+			<input type="text" class="bibtex_search" style="width:100%" id="searchbar" placeholder="Search publications">
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-1">
 			<button type="button" class="btn btn-default" onclick="reset()">Reset</button>
 		</div>
 	</div>
@@ -149,7 +149,7 @@
 	<bibtex src="/assets/realsearch.bib"></bibtex>
 	
 	<div class="bibtex_structure">
-            <div class="group year" extra="ASC number">
+            <div class="group year" extra="DESC number">
                 <div class="sort display_order" extra="DESC number">
                   <div class="templates"></div>
                 </div>
